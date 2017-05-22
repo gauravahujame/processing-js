@@ -1,0 +1,32 @@
+{
+  "name": "my-p5js-playground",
+  "version": "0.0.1",
+  "description": "My p5.js playground is a bunch of example projects made with p5.js",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-htmlmin": "^0.3.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-less": "^0.11.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamingechoes/my-p5js-playground"
+  },
+  "author": "dreamingechoes <hi@dreamingecho.es> (http://dreamingecho.es/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamingechoes/my-p5js-playground/issues"
+  },
+  "homepage": "https://github.com/dreamingechoes/my-p5js-playground"
+}
